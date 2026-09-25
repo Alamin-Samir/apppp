@@ -12,7 +12,7 @@ function page() {
         <Link href="/logo">Logo</Link>
         <Link href="/contact">Contact</Link>
         <Link href="/about">About</Link>
-        <Link href="/bio">Bio</Link>
+        <Link href="/api-test">this is api test page</Link>
       </div>
     </div>
   );
